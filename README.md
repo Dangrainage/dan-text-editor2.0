@@ -10,6 +10,6 @@ To run It, just make a folder and put the danitor.sh into the folder, run `bash 
 
 It works by taking the users text and running It trough a caesar cipher, moving every character by 4 letters, and even wrapping when nessecary.
 Doesn't cipher numbers and special characters tho.
-The .dan file extention Is there 'cause I can basically, otherwise It's praintext caesar cipher (can you tell It's my favorite cipher by now?).
+The .dan file extention Is there 'cause I can basically, otherwise It's plaintext caesar cipher (can you tell It's my favorite cipher by now?).
 
 # ANYWAYS FOLKS, ENJOY!!
